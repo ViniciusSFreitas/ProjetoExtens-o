@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garden Express</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel='stylesheet'
+        href='https://cdn-uicons.flaticon.com/2.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+
+<body>
+    <header>
+        <img class="logo" src="./GARDEN (1).png" alt="logo.gardenexpress">
+        <nav>
+            <a href="index.html" class="menu-item">Início</a>
+            <a href="perfil.html" class="menu-item">Perfil</a>
+            <a href="comunidade.html" class="menu-item">Comunidade</a>
+            <a href="eventos.html" class="menu-item">Eventos</a>
+        </nav>
+    </header>
+
+    <div class="search-box">
+        <input type="text" id="address-input" placeholder="Digite sua rua e cidade..." />
+        <button id="go-button">Ir</button>
+    </div>
+
+    <div class="mapa" id="mapa"></div>
+    <div class="message-box">
+        <p>Encontre sua próxima comunidade!</p>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <script src="mapa.js"></script>
+</body>
+
+</html>
