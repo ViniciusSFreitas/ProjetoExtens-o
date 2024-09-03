@@ -3,7 +3,7 @@
 title: "Garden Express" draft: false
 language: pt-br 
 featured\_image: Tela inicial Garden Express.png
-summary: O Garden Express tem como objetivo conectar pessoas interessadas em cultivar alimentos de forma sustentável, promovendo a troca de recursos, conhecimentos e experiências relacionadas ao cultivo. Através do site, os usuários poderão encontrar hortas comunitárias próximas, compartilhar ferramentas e materiais, obter orientações sobre práticas de cultivo sustentável, participar de eventos e interagir com outros entusiastas de hortas.
+summary: Website para uma iniciativa para Horta Comunitária!
 author: Vinícius Freitas 
 categories: Blog 
 tags: \["CC", "ES", "ADS", "IA", "Tecnologia", "Saúde", "Cultura", "Entretenimento"\] 
@@ -26,7 +26,7 @@ You will like those projects\!
 
 # h1 Heading :blush: Garden Express
 
-## h2 Heading O cultivo de alimentos em hortas comunitárias não apenas promove a segurança alimentar e a autonomia, mas também contribui para a sustentabilidade ambiental, a saúde e o bem-estar. No entanto, muitas pessoas enfrentam desafios na criação e manutenção de hortas comunitárias devido à falta de conhecimento, recursos e conexões. Um aplicativo dedicado às hortas comunitárias pode desempenhar um papel crucial ao facilitar o acesso a esses elementos essenciais.
+## h2 Heading O Garden Express tem como objetivo conectar pessoas interessadas em cultivar alimentos de forma sustentável, promovendo a troca de recursos, conhecimentos e experiências relacionadas ao cultivo. Através do site, os usuários poderão encontrar hortas comunitárias próximas, compartilhar ferramentas e materiais, obter orientações sobre práticas de cultivo sustentável, participar de eventos e interagir com outros entusiastas de hortas.
 
 ## Horizontal Rules
 
