@@ -106,7 +106,7 @@ nav a:focus {
     width: 45%;
     margin: 20px;
     padding: 20px;
-    background-color: #459B4D;
+    background-color: #fff;
     border-radius: 10px;
     text-align: center;
     box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.3);
@@ -135,7 +135,7 @@ nav a:focus {
     width: 80%;
     margin: 20px auto;
     padding: 20px;
-    background-color: #459B4D;
+    background-color: #fff;
     border-radius: 10px;
     text-align: center;
     box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.3);
@@ -144,7 +144,7 @@ nav a:focus {
 .interaction-box h2 {
     font-size: 24px;
     margin-bottom: 10px;
-    color: #FFD700;
+    color: #459B4D;
 }
 
 #testimonial-title,
@@ -154,7 +154,8 @@ nav a:focus {
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 5px;
-    border: none;
+    border-style: solid;
+    border-color: #459B4D;
 }
 
 #testimonial-title,
@@ -168,8 +169,8 @@ nav a:focus {
 
 #testimonial-form button {
     padding: 10px 20px;
-    background-color: #FAFF00;
-    color: #000;
+    background-color: #459B4D;
+    color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -178,7 +179,7 @@ nav a:focus {
 }
 
 #testimonial-form button:hover {
-    background-color: #FFD700;
+    background-color: #367c39;
 }
 
 @media (max-width: 768px) {
@@ -190,5 +191,5 @@ nav a:focus {
 .testimonial-text h2 {
     font-size: 24px;
     margin-bottom: 10px;
-    color: #FFD700;
+    color: #459B4D;
 }

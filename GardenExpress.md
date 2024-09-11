@@ -26,7 +26,19 @@ You will like those projects\!
 
 # h1 Heading :blush: Garden Express
 
-## h2 Heading O Garden Express tem como objetivo conectar pessoas interessadas em cultivar alimentos de forma sustentável, promovendo a troca de recursos, conhecimentos e experiências relacionadas ao cultivo. Através do site, os usuários poderão encontrar hortas comunitárias próximas, compartilhar ferramentas e materiais, obter orientações sobre práticas de cultivo sustentável, participar de eventos e interagir com outros entusiastas de hortas.
+## h3 Heading O Garden Express tem como objetivo conectar pessoas interessadas em cultivar alimentos de forma sustentável, promovendo a troca de recursos, conhecimentos e experiências relacionadas ao cultivo. Através do site, os usuários poderão encontrar hortas comunitárias próximas, compartilhar ferramentas e materiais, obter orientações sobre práticas de cultivo sustentável, participar de eventos e interagir com outros entusiastas de hortas.
+
+# h2 Heading Fundamentação
+
+## h3 Heading O cultivo de alimentos em hortas comunitárias não apenas promove a segurança alimentar e a autonomia, mas também contribui para a sustentabilidade ambiental, a saúde e o bem-estar. No entanto, muitas pessoas enfrentam desafios na criação e manutenção de hortas comunitárias devido à falta de conhecimento, recursos e conexões. Um site dedicado às hortas comunitárias pode desempenhar um papel crucial ao facilitar o acesso a esses elementos essenciais.
+
+# h2 Heading Como utilizar?
+
+## h3 Heading Na pagina "Início" você encontrará um mapa onde o usuário poderá colocar seu endereço e cidade para identificação de hortas comunitárias próximas à ele. A página "Comunidade" contém os feedbacks, dicas e comentários dos usuários do sistema, nele você consegue deixar o seu feedback e o site retorna com o registro do mesmo. Já na página "Eventos" temos os eventos disponíveis pela cidade, onde também o próprio usuário pode anunciar seu próprio evento, como feiras e workshops.
+
+# h2 Heading Contato
+
+## h3 Heading Para maiores informações e dúvidas entre em contato através do e-mail: viniciusfreitas@edu.unifil.br
 
 ## Horizontal Rules
 
